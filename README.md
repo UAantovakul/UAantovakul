@@ -1,16 +1,13 @@
-## Hi there 👋
+### Привіт 👋
 
-<!--
-**UAantovakul/UAantovakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Heatmap-календар контрибуцій (як стандартний, вбудований у README) -->
+![contributions](https://ghchart.rshah.org/409ba5/UAantovakul)
 
-Here are some ideas to get you started:
+<!-- Line-граф активності (темна тема) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UAantovakul&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Стрік контрибуцій -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=UAantovakul&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Загальна статистика -->
+[![Stats](https://github-readme-stats.vercel.app/api?username=UAantovakul&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
